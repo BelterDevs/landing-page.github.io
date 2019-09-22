@@ -27,15 +27,15 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333;
+  background-image: linear-gradient(#A26668,#A35863, #8D4B6A, #8d3f71);
 }
 
 body {
   display: -ms-flexbox;
   display: flex;
   color: #fff;
-  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
-  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+  text-shadow: 0 .05rem .1rem #A26668;
+  box-shadow: inset 0 0 5rem #A35863;
 }
 
 .cover-container {
